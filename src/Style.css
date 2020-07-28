@@ -1,0 +1,21 @@
+menu {
+    position: relative;
+    
+    right: 0px;
+  }
+  
+footer {
+  position: absolute;
+width: 1633px;
+height: 54px;
+
+font-family: Libre Franklin;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 132%;
+/* or 28px */
+
+
+color: #03942F;
+}
